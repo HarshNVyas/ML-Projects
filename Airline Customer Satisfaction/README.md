@@ -9,8 +9,6 @@ Dataset: Satisfaction.csv
 
 Model: logistic_regression_model.pkl
 
-To get a quick overview of the analysis, check the medium article: https://medium.com/@samarthsharma_/using-crisp-dm-methodology-to-escalate-customer-satisfaction-1dd5cfb3be0e
-
 To dive deeper into code refer to 'CrispDM_Airline.ipynb' and to understand the thought process, and the research aspects of the project, refer to the research paper: 'Airline_Satisfaction_CRISP-DM.pdf'.
 
 
