@@ -8,10 +8,6 @@
 
 ![image](https://github.com/Samarth-Sharma-G/Deep-Learning-CMPE-258/assets/107587243/5e2187cd-bb46-4220-b27e-15c3ed87ead9)
 
-## Video Demo
-
-<a href='https://youtu.be/7vfWBAsyPbc'> The implementation demo line by line </a> 
-
 ## Implementations:
 
 ### Numpy 
