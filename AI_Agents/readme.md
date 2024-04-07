@@ -1,5 +1,3 @@
-# <a href='https://youtu.be/ceSF_0lUD6c'> Demo Video </a>: This clickable link will redirect to YouTube.
-
 
 # AI_Agent from scratch 
 
