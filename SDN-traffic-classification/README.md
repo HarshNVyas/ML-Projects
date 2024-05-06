@@ -1,9 +1,20 @@
-# SDN-traffic-classification
-Software Defined Network traffic classification is classification of SDN dataset with various machine learning and deep learning algorithms. They are listed in the notebooks file. 
+# Software Defined Network Traffic Classification
 
+This project focuses on the classification of Software Defined Network (SDN) traffic using various machine learning and deep learning algorithms. The dataset used for classification is generated using Python code and a Ryu controller, with network topologies created in Mininet.
 
-Dataset used is build by python code and ryu controller. Topologies are created in Mininet.
+## Methodologies
 
-Below is a sneak peak of the results obtained:  
+The classification is performed using the following algorithms:
+
+- Logistic Regression
+- Support Vector Machine
+- Random Forest Classifier
+- K Nearest Neighbors
+
+The implementation details and results for each algorithm are provided in the accompanying Jupyter Notebooks.
+
+## Results
+
+Here's a summary of the results obtained:
 
 ![sdn](https://github.com/Samarth-Sharma-G/SDN-traffic-classification/assets/107587243/50c370d3-5a66-4895-b434-3f0859d8c34a)
