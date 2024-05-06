@@ -4,7 +4,7 @@ This project focuses on the classification of Software Defined Network (SDN) tra
 
 ## Methodologies
 
-The classification is performed using the following algorithms:
+The classification is performed using the following Machine Learning algorithms:
 
 - Logistic Regression
 - Support Vector Machine
